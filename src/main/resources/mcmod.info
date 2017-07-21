@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elmods",
+  "name": "EastLand Assist Mod",
+  "description": "this mod helps player to fill the verification code automatically ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jason","xigay"],
+  "credits": "hmm?",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
